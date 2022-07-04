@@ -1,3 +1,7 @@
 20220701
-在github上創立一個新帳號並開始記錄自己的自學歷程.
+在github上創立一個新資料庫並開始記錄自己的自學歷程.
 我的目標是熟悉pytorch 和tensorflow 的語法並且進行一些應用練習.
+
+20220704
+選定COVID-19 Radiography Dataset做為參考資料(https://www.kaggle.com/datasets/preetviradiya/covid19-radiography-dataset)
+該資料集中共有約2萬張肺部X-光的圖片共有四種標籤:分別是normal(正常),lung opacity(纖維化肺部),COVID,和Viral Pneumonia(肺部霧化)
