@@ -5,3 +5,7 @@
 20220704
 選定COVID-19 Radiography Dataset做為參考資料(https://www.kaggle.com/datasets/preetviradiya/covid19-radiography-dataset)
 該資料集中共有約2萬張肺部X-光的圖片共有四種標籤:分別是normal(正常),lung opacity(纖維化肺部),COVID,和Viral Pneumonia(肺部霧化)
+
+20220705
+把資料上傳到google drive後連結到google colab上運行,已經成功將部分資料載入colab了,但受限於硬體限制無法加載全部資料.
+目前能想到的方法是分批訓練,或是分割圖片,或是合併像素.
