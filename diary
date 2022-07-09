@@ -1,5 +1,6 @@
 20220701
-在github上創立一個新資料庫並開始記錄自己的自學歷程.
+在github上創立一個新資料庫(https://github.com/yang1325/AI_selfpraticenote)
+並開始記錄自己的自學歷程.
 我的目標是熟悉pytorch 和tensorflow 的語法並且進行一些應用練習.
 
 20220704
@@ -7,5 +8,7 @@
 該資料集中共有約2萬張肺部X-光的圖片共有四種標籤:分別是normal(正常),lung opacity(纖維化肺部),COVID,和Viral Pneumonia(肺部霧化)
 
 20220705
-把資料上傳到google drive後連結到google colab上運行,已經成功將部分資料載入colab了,但受限於硬體限制無法加載全部資料.
-目前能想到的方法是分批訓練,或是分割圖片,或是合併像素.
+把資料上傳到google drive後連結到google colab上運行,已經成功將部分資料載入colab了,但受限於硬體限制無法加載全部資料,目前能想到的方法是分批訓練,或是分割圖片,或是合併像素.
+
+20220710
+我寫了一個可以合併像素的程式,我將2X2的像素合併在一起,然後在自己的電腦運行後上傳到google drive後再連結到google colab,在所需的儲存空間減少四倍後.google colab可以讀取全部的資料了.
